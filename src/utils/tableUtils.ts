@@ -1,4 +1,3 @@
-"use client";
 import { Item } from "../types/item";
 
 export const filterItems = (items: Item[], search: string, type: string): Item[] => {
